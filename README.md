@@ -1,16 +1,11 @@
 # Ravindra Sawant
 
-<div align="center">
-  <h3>Architecting scalable data platforms and autonomous AI systems.</h3>
-  <p>Senior Software / Data Engineer combining 15+ years of backend expertise with modern Agentic AI workflows.</p>
-  
-  <a href="https://linkedin.com/in/ravindrasawant">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+### Architecting scalable data platforms and autonomous AI systems.
+
+**Senior Software / Data Engineer** combining 15+ years of backend expertise with modern Agentic AI workflows.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindrasawant)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
@@ -67,12 +62,8 @@
 
 ## 📊 Consistency & Output
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravirs&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravirs&layout=compact&theme=radical&hide_border=true" width="48%" />
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravirs&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/ravirs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirs&layout=compact&theme=radical&hide_border=true)](https://github.com/ravirs)
 
 ---
-<div align="center">
-  <sub>Open to roles in <b>Backend Engineering</b>, <b>Data Platform Engineering</b>, and <b>Applied AI</b>.</sub>
-</div>
+**Open to roles in Backend Engineering, Data Platform Engineering, and Applied AI.**
