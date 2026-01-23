@@ -1,43 +1,78 @@
-# Ravindra Sawant 🚀
+# Ravindra Sawant
 
-### Senior Software / Data Engineer
-
-> Building scalable backend systems, data platforms, and robust data pipelines. Currently exploring the frontier of **LLM Agents** and **Applied AI**.
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ravirs&show_icons=true&theme=radical)](https://github.com/ravirs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirs&layout=compact&theme=radical)](https://github.com/ravirs)
+<div align="center">
+  <h3>Architecting scalable data platforms and autonomous AI systems.</h3>
+  <p>Senior Software / Data Engineer combining 15+ years of backend expertise with modern Agentic AI workflows.</p>
+  
+  <a href="https://linkedin.com/in/ravindrasawant">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🏗️ Engineering Philosophy
 
-| Domain | Technologies |
+> *"I build systems that are reliable by design and easy for teams to operate."*
+
+- **Scalability**: Designing architectures that handle data growth gracefully (from GBs to PBs).
+- **Automation**: If it happens twice, automate it. I leverage CI/CD and IaC to eliminate toil.
+- **Clarity**: Code is read more than it is written. I value clean APIs and comprehensive documentation.
+
+---
+
+## 🛠️ Technical Capabilities
+
+| Core Competency | Technology Stack |
 | :--- | :--- |
-| **Backend Systems** | Python, Java, FastAPI, Docker, Kubernetes, Distributed Systems |
-| **Data Engineering** | Spark, Kafka, Airflow, Azure Data Factory, Synapse, Data Lake, Parquet/Iceberg |
-| **AI & ML** | LLM Agents, RAG, LangChain, PyTorch, OpenAI API |
-| **Cloud** | Azure, AWS, GCP |
+| **Backend Engineering** | Python, Java, FastAPI, REST APIs, Microservices, Distributed Systems |
+| **Data Platforms** | Apache Spark, Kafka, Azure Data Factory, Synapse Analytics, Lakehouse Architecture |
+| **Applied AI & LLMs** | Multi-Agent Systems, RAG Workflows, LangChain, OpenAI API, Vector Databases |
+| **Infrastructure** | Docker, Kubernetes, Terraform, Cloud (Azure/AWS), CI/CD |
 
 ---
 
-## 🔥 Featured Projects
-
-### [🤖 Reachy ReadAlong](https://github.com/ravirs/reachy_readalong)
-*Interactive robotics application for Reachy Mini with expressive AI-driven motion.*
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Robotics](https://img.shields.io/badge/Robotics-Reachy-orange)
+## 🔥 Featured Work
 
 ### [📈 TradingAgents Streamlit UI](https://github.com/ravirs/TradingAgentsStreamlitUI)
-*Multi-Agent LLM system for automated financial research and trading decisions.*
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+*Autonomous Financial Research System*
+> **The Challenge**: Financial research requires synthesizing vast amounts of news and data, a slow manual process.
+> 
+> **The Solution**: Built an autonomous **Multi-Agent System** where AI agents (Researcher, Risk Manager, Trader) debate market conditions in real-time to form trading decisions.
+>
+> **Impact**: Reduces research time significantly while providing transparent, debate-driven rationale for trade suggestions.
+
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![LangChain](https://img.shields.io/badge/AI-LangChain-green) ![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
 
 ### [☁️ NYC Payroll Data Pipelines](https://github.com/ravirs/Data-Integration-Pipelines-for-NYC-Payroll-Data-Analytics)
-*Enterprise-grade Azure Data Factory pipelines handling large-scale payroll analytics.*
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+*Enterprise-Grade ETL Architecture*
+> **The Challenge**: Processing millions of payroll records efficiently with traceability and error handling.
+>
+> **The Solution**: Designed an end-to-end **Azure Data Factory** pipeline orchestrating data flow from raw ingestion (Data Lake) to analytical transformation (Data Flows) and warehousing (Synapse).
+>
+> **Impact**: established a reproducible, scalable template for batch processing complex public sector data.
+
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4) ![Data Factory](https://img.shields.io/badge/ETL-Data_Factory-0078D4) ![SQL](https://img.shields.io/badge/DB-Synapse-lightgrey)
+
+### [🤖 Reachy ReadAlong](https://github.com/ravirs/reachy_readalong)
+*Interactive Robotics Application*
+> **The Solution**: A complete robotics control system synchronizing TTS (Text-to-Speech) audio with hardware motor commands for expressive head motion. Demonstrates hardware-software integration.
+
+![Robotics](https://img.shields.io/badge/Hardware-Robotics-orange) ![Python](https://img.shields.io/badge/Python-Flask-blue)
 
 ---
 
-## 📫 Connect
-<a href="https://linkedin.com/in/ravindrasawant" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+## 📊 Consistency & Output
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravirs&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravirs&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
+
+---
+<div align="center">
+  <sub>Open to roles in <b>Backend Engineering</b>, <b>Data Platform Engineering</b>, and <b>Applied AI</b>.</sub>
+</div>
